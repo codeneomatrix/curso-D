@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"Neomatrix"
+	],
+	"description": "A simple vibe.d server application.",
+	"name": "mywebapp",
+	"dependencies": {
+		"vibe-d": "~>0.7.26"
+	},
+	"license": "MIT",
+	"copyright": "Copyright © 2016, Neomatrix",
+	"versions": [
+		"VibeDefaultMain"
+	]
+}
